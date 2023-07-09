@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Kevin Barrios</h1>
-<h2 align="center">A passionate frontend developer from Argentina</h2>
+<h1 align="center">
+  Hi 👋, I'm Kevin Barrios
+  <img
+    src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
+    width="35"
+  />
+</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"
+    ><img
+      src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Passionate+in+Programming;Always+Learning+new+things&center=true&width=500&height=50"
+  /></a>
+</p>
 
 <h3>About me</h3>
 <p>
