@@ -154,7 +154,7 @@ La aplicación está diseñada para ser desplegada en entornos modernos de hosti
 
 </details>
 <details>
-<summary><b>🌊 Ocean Allies NGO</b></summary>
+<summary><b> Ocean Allies NGO</b></summary>
 
 ### Descripción
 
