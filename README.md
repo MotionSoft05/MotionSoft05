@@ -1,4 +1,4 @@
-# <p align="center">👋 Hola, soy Kevin Barrios <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"/></p>
+# <p align="center">Hola, soy Kevin Barrios</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## 💫 Sobre mí
+## Sobre mí
 ```javascript
 const kevin = {
   rol: "Desarrollador Front-End / Full Stack",
@@ -19,14 +19,14 @@ const kevin = {
 
 Soy un desarrollador web con especialización en Front End y sólida experiencia en desarrollo Full Stack. Me enfoco en crear soluciones digitales eficientes y experiencias de usuario optimizadas mediante tecnologías modernas.
 
-- 🔭 Actualmente trabajo en **Adbize** desarrollando aplicaciones web responsivas
-- 🌱 Estoy aprendiendo **TypeScript, NextJS y TailwindCSS**
-- 💼 Proyectos destacados: **UpperDS Platform**, **Ocean Allies NGO**
-- 📫 Contáctame: **kevinbarrios05@gmail.com**
+-  Actualmente trabajo en **Adbize** desarrollando aplicaciones web responsivas
+-  Estoy aprendiendo **TypeScript, NextJS y TailwindCSS**
+-  Proyectos destacados: **UpperDS Platform**, **Ocean Allies NGO**
+-  Contáctame: **kevinbarrios05@gmail.com**
 
 <br>
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,7 +53,7 @@ Soy un desarrollador web con especialización en Front End y sólida experiencia
 
 <br>
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=motionsoft05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -66,10 +66,10 @@ Soy un desarrollador web con especialización en Front End y sólida experiencia
 
 <br>
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <details>
-<summary><b>🌊 Ocean Allies NGO</b></summary>
+<summary><b> Ocean Allies NGO</b></summary>
 <p>
 Proyecto grupal académico desarrollado durante mi tiempo en Henry Bootcamp. Trabajamos en equipo con metodologías ágiles para crear una plataforma para una ONG dedicada a la conservación de océanos.
 </p>
@@ -77,7 +77,7 @@ Proyecto grupal académico desarrollado durante mi tiempo en Henry Bootcamp. Tra
 </details>
 
 <details>
-<summary><b>📱 UpperDS Platform</b></summary>
+<summary><b> UpperDS Platform</b></summary>
 <p>
 Plataforma web para exhibir eventos y publicidad. Incluye gestión de usuarios, sistema de pagos y panel de administración.
 </p>
@@ -85,7 +85,7 @@ Plataforma web para exhibir eventos y publicidad. Incluye gestión de usuarios, 
 </details>
 
 <details>
-<summary><b>🎮 Proyecto Pokémon</b></summary>
+<summary><b> Proyecto Pokémon</b></summary>
 <p>
 Aplicación interactiva que permite a los usuarios explorar información sobre Pokémon, filtrar por características y crear nuevos Pokémon personalizados.
 </p>
@@ -94,7 +94,7 @@ Aplicación interactiva que permite a los usuarios explorar información sobre P
 
 <br>
 
-## 🔗 Conéctate conmigo
+##  Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-barrios-developer)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/motionsoft05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbarrios05@gmail.com)
