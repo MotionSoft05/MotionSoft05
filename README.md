@@ -1,184 +1,106 @@
-<h1 align="center">
-  Hi 👋, I'm Kevin Barrios
-  <img
-    src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
-    width="35"
-  />
-</h1>
+# <p align="center">👋 Hola, soy Kevin Barrios <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"/></p>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"
-    ><img
-      src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Passionate+in+Programming;Always+Learning+new+things&center=true&width=500&height=50"
-  /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Front+End;Apasionado+por+la+Programación;Siempre+Aprendiendo&center=true&width=500&height=50"/>
+  </a>
 </p>
 
-<h3>About me</h3>
+## 💫 Sobre mí
+```javascript
+const kevin = {
+  rol: "Desarrollador Front-End / Full Stack",
+  ubicación: "Buenos Aires, Argentina",
+  experiencia: "Adbize (Agosto 2023 - Presente)",
+  aprendiendo: ["TypeScript", "NextJS", "TailwindCSS"],
+  pasión: "Crear interfaces intuitivas y soluciones web escalables"
+};
+```
+
+Soy un desarrollador web con especialización en Front End y sólida experiencia en desarrollo Full Stack. Me enfoco en crear soluciones digitales eficientes y experiencias de usuario optimizadas mediante tecnologías modernas.
+
+- 🔭 Actualmente trabajo en **Adbize** desarrollando aplicaciones web responsivas
+- 🌱 Estoy aprendiendo **TypeScript, NextJS y TailwindCSS**
+- 💼 Proyectos destacados: **UpperDS Platform**, **Ocean Allies NGO**
+- 📫 Contáctame: **kevinbarrios05@gmail.com**
+
+<br>
+
+## 🛠️ Stack Tecnológico
+
+### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Back-End
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Herramientas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br>
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=motionsoft05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=motionsoft05&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=motionsoft05&theme=algolia&column=3&margin-w=15&margin-h=15" alt="motionsoft05" />
+</p>
+
+<br>
+
+## 🚀 Proyectos Destacados
+
+<details>
+<summary><b>🌊 Ocean Allies NGO</b></summary>
 <p>
-  I am a Full Stack Development student at Henry Bootcamp with a focus on Front
-  End. Ever since I was a child, I have been passionate about technology. That's
-  why I decided to pursue the programming path and become a Full Stack
-  Developer.
+Proyecto grupal académico desarrollado durante mi tiempo en Henry Bootcamp. Trabajamos en equipo con metodologías ágiles para crear una plataforma para una ONG dedicada a la conservación de océanos.
 </p>
+<p><b>Tecnologías:</b> React, Redux, Node.js, Express, PostgreSQL</p>
+</details>
 
-<p>- 🌱 I’m currently learning **TypeScript, NextJS and Tailwind.**</p>
+<details>
+<summary><b>📱 UpperDS Platform</b></summary>
 <p>
-  - 📝 I regularly write articles on
-  https://www.linkedin.com/in/kevin-barrios-developer/
+Plataforma web para exhibir eventos y publicidad. Incluye gestión de usuarios, sistema de pagos y panel de administración.
 </p>
-<p>- 📫 How to reach me **Kevinbbarrios05@gmail.com**</p>
-<br /><br />
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-/><br /><br />
+<p><b>Tecnologías:</b> React, NextJS, PostgreSQL, Firebase, Axios</p>
+</details>
 
-<img
-  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-  width="25"
-/><b> Tech Stack</b>
-<br />
-<p align="left">
-  <b>Frontend:</b>
-  <br />
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-      alt="react"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-      alt="redux"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/nextjs-316192?style=for-the-badge"
-      alt="nextjs"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-      alt="tailwind"
-    />
-  </a>
+<details>
+<summary><b>🎮 Proyecto Pokémon</b></summary>
+<p>
+Aplicación interactiva que permite a los usuarios explorar información sobre Pokémon, filtrar por características y crear nuevos Pokémon personalizados.
 </p>
+<p><b>Tecnologías:</b> React, Redux.js, styled-components</p>
+</details>
 
-<p align="left">
-  <b>Backend:</b>
-  <br />
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-      alt="nodejs"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"
-      alt="express"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="mysql"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"
-    />
-  </a>
-</p>
+<br>
 
-<p align="left">
-  <b>Other Tools:</b>
-  <br />
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/babeljs-404D59?style=for-the-badge"
-      alt="babel"
-    />
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"
-      alt="blender"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/firebase-F7DF1E?style=for-the-badge"
-      alt="firebase"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
-      alt="photoshop"
-    />
-  </a>
-</p>
-<br /><br />
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-/><br /><br />
+## 🔗 Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-barrios-developer)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/motionsoft05)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinbarrios05@gmail.com)
 
-⚙️ GitHub Analytics
+---
 
-<a href="https://github.com/motionsoft05">
-  <img
-    height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=motionsoft05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=motionsoft05&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"
-  />
-</a>
-
-<br /><br />
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=motionsoft05&label=Profile%20views&color=0e75b6&style=flat"
-    alt="motionsoft05"
-  />
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/kevin-barrios-developer" target="blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="kevin-barrios-developer"
-  /></a>
-  <a href="https://dev.to/motionsoft05" target="blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
-      alt="motionsoft05"
-  /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=motionsoft05&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="motionsoft05" />
 </p>
