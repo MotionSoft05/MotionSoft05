@@ -63,7 +63,7 @@ Soy un desarrollador web con especialización en Front End y sólida experiencia
 
 
 <details>
-<summary><b>📺 UpperDS Platform</b></summary>
+<summary><b> UpperDS Platform</b></summary>
 
 ### Descripción
 
@@ -153,20 +153,110 @@ La aplicación está diseñada para ser desplegada en entornos modernos de hosti
 - **Facilidad de Uso**: Interfaz intuitiva que no requiere conocimientos técnicos avanzados.
 
 </details>
+<details>
+<summary><b>🌊 Ocean Allies NGO</b></summary>
 
-<details>
-<summary><b> Ocean Allies NGO</b></summary>
-<p>
-Proyecto grupal académico desarrollado durante mi tiempo en Henry Bootcamp. Trabajamos en equipo con metodologías ágiles para crear una plataforma para una ONG dedicada a la conservación de océanos.
-</p>
-<p><b>Tecnologías:</b> React, Redux, Node.js, Express, PostgreSQL</p>
-</details>
-<details>
-<summary><b> Proyecto Pokémon</b></summary>
-<p>
-Aplicación interactiva que permite a los usuarios explorar información sobre Pokémon, filtrar por características y crear nuevos Pokémon personalizados.
-</p>
-<p><b>Tecnologías:</b> React, Redux.js, styled-components</p>
+### Descripción
+
+Ocean Allies es una plataforma web completa desarrollada para una ONG dedicada a la conservación de océanos. Este proyecto académico grupal fue creado durante mi formación en Henry Bootcamp, donde implementamos metodologías ágiles en un entorno colaborativo, trabajando en sprints semanales y realizando presentaciones de avance al Product Owner.
+
+### Mi Rol y Contribuciones
+
+Como desarrollador Front End, mis responsabilidades principales incluyeron:
+
+- Diseño e implementación de interfaces responsivas e intuitivas
+- Desarrollo completo de la sección de tienda (Shop) para venta de productos
+- Creación de páginas de detalle de producto con información dinámica
+- Implementación de funcionalidades de carrito de compras
+- Optimización para dispositivos móviles
+- Participación en reuniones diarias de planificación y retrospectiva
+
+### Características Principales
+
+- **Catálogo de Productos**:
+  - Visualización de productos por categorías
+  - Filtros y búsqueda avanzada
+  - Vista detallada de productos con imagen, descripción y precio
+
+- **Sistema E-commerce Completo**:
+  - Gestión de carrito de compras (agregar, eliminar, actualizar cantidades)
+  - Proceso de checkout y confirmación de pedido
+  - Integración con pasarela de pagos
+  - Control de inventario automático
+
+- **Gestión de Usuarios**:
+  - Registro y autenticación de usuarios
+  - Perfiles personalizados con historial de compras
+  - Recuperación de contraseña
+
+- **Panel de Administración**:
+  - Dashboard con estadísticas y métricas clave
+  - CRUD completo para productos (Crear, Leer, Actualizar, Eliminar)
+  - Gestión de órdenes y seguimiento de envíos
+  - Visualización de usuarios registrados
+
+- **Sistema de Reseñas y Testimonios**:
+  - Clientes pueden dejar reseñas sobre productos adquiridos
+  - Sección de testimonios sobre el impacto de la ONG
+  - Moderación de contenido generado por usuarios
+
+- **Comunicaciones Automáticas**:
+  - Emails transaccionales (confirmación de compra, envío, etc.)
+  - Notificaciones sobre el estado de órdenes
+  - Boletín informativo sobre actividades de la ONG
+
+### Tecnologías Utilizadas
+
+- **Frontend**:
+  - **React**: Biblioteca principal para desarrollo de UI
+  - **Redux**: Gestión de estado global de la aplicación
+  - **CSS Modules**: Estilos modulares para componentes
+  - **Material UI**: Biblioteca de componentes para diseño consistente
+  - **Formik y Yup**: Manejo y validación de formularios
+
+- **Backend**:
+  - **Node.js**: Entorno de ejecución JavaScript del lado del servidor
+  - **Express**: Framework para desarrollo de API REST
+  - **PostgreSQL**: Base de datos relacional para almacenamiento persistente
+  - **Sequelize**: ORM para interactuar con la base de datos
+  - **JWT**: Autenticación basada en tokens
+
+- **Herramientas Complementarias**:
+  - **Nodemailer**: Envío automático de correos electrónicos
+  - **Cloudinary**: Gestión de imágenes en la nube
+  - **Stripe/PayPal**: Integración de pasarelas de pago
+  - **JWT**: Autenticación segura
+
+### Metodología de Trabajo
+
+El proyecto se desarrolló siguiendo principios ágiles:
+
+- **Sprints Semanales**: Ciclos de desarrollo de una semana con objetivos específicos
+- **Reuniones Diarias**: Stand-ups para compartir avances y resolver bloqueos
+- **Revisión de Sprint**: Presentaciones al Product Owner al final de cada ciclo
+- **Retrospectivas**: Análisis continuo del proceso para mejorar el flujo de trabajo
+- **Git Flow**: Control de versiones con ramas para features, hotfixes y desarrollo
+
+### Aprendizajes y Desafíos
+
+- Implementación efectiva de metodologías ágiles en un entorno académico
+- Coordinación entre equipos de frontend y backend
+- Integración de múltiples servicios de terceros (pasarelas de pago, almacenamiento)
+- Desarrollo de interfaces responsivas para diversos dispositivos
+- Manejo de estado complejo en una aplicación con múltiples características
+
+### Resultados
+
+El proyecto cumplió exitosamente con los requisitos establecidos, entregando una plataforma funcional que:
+
+- Proporciona una experiencia de usuario fluida e intuitiva
+- Facilita la venta de productos para apoyar a la ONG
+- Automatiza procesos de gestión de inventario y pedidos
+- Ofrece herramientas administrativas para la gestión del negocio
+- Presenta un diseño atractivo y adaptable a diferentes dispositivos
+
+Este proyecto fue fundamental para mi formación como desarrollador, proporcionándome experiencia práctica en metodologías ágiles y desarrollo colaborativo.
+
 </details>
 
 <br>
